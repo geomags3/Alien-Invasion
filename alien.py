@@ -1,6 +1,6 @@
 import pygame
 from pygame.sprite import Sprite
-
+# изменение для Git
 class Alien(Sprite):
     """Класс, описывающий одного пришельца"""
 
