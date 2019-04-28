@@ -1,5 +1,8 @@
 import pygame.font
 
+
+# изменение в ветке master для конфликта
+
 class Button():
 
     def __init__(self, ai_settings, screen, msg):
