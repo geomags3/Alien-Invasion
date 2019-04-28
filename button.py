@@ -1,7 +1,6 @@
 import pygame.font
 
-
-# изменение в ветке master для конфликта
+# решение конфликта 
 
 class Button():
 
