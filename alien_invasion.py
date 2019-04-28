@@ -10,6 +10,8 @@ from ship import Ship
 import game_functions as gf
 
 
+#еще одно изменение для Git (создание новой ветки)
+
 def run_game():
 
     # Инициализирует игру и создает объект на экране
